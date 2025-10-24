@@ -10,6 +10,15 @@
   --dark-color: #000;
 }
 
+#dvdLogo {
+  width: 40vh; /* Adjust size as needed */
+  height: 40vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
 .title {
   position: absolute;
   width: 100%;
